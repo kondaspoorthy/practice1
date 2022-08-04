@@ -5,7 +5,6 @@
   "main": "FormValidation.js",
   "scripts": {
     "test": "jest",
-   
   },
   "repository": {
     "type": "git",
