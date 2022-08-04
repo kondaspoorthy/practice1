@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest"
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev"
   },
   "keywords": [],
   "author": "",
