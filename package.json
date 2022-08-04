@@ -1,25 +1,15 @@
 {
-  "name": "practice1",
+  "name": "pratice1",
   "version": "1.0.0",
   "description": "",
-  "main": "FormValidation.js",
+  "main": "index.js",
   "scripts": {
-    "test": "jest",
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kondaspoorthy/practice1.git"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kondaspoorthy/practice1/issues"
-  },
-  "homepage": "https://github.com/kondaspoorthy/practice1,
-  "dependencies": {
-    "build": "^0.1.4",
-    "jest": "^28.1.3",
-    "parcel-bundler": "^1.12.5"
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
